@@ -18,7 +18,7 @@ acessar detalhes do mesmo.
     - npm
 
 ## Como instalar
-- Baixe ou clone este repositório usando git clone ....
+- Baixe ou clone este repositório usando git clone https://github.com/VeronicaFrota/reactJS-product-listing-example.git
 
 
 ## Como executar
